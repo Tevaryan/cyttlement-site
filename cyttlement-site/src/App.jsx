@@ -267,7 +267,7 @@ export default function App() {
 
               <div className="rounded-[2rem] border border-white/10 bg-white/[0.05] p-6 backdrop-blur-xl">
                 <div className="text-sm text-white/55">Contact</div>
-                <div className="mt-3 text-2xl font-semibold">hello@cyttlement.com</div>
+                <div className="mt-3 text-2xl font-semibold">test@cyttlement.com</div>
                 <div className="mt-2 text-white/60">Kuala Lumpur, Malaysia</div>
                 <a
                   href="mailto:hello@cyttlement.com"
