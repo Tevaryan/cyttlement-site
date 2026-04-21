@@ -52,7 +52,7 @@ export default function App() {
             <img
               src="/Copy of Your paragraph text (1).png"
               alt="Cyttlement logo"
-              className="h-10 w-auto object-contain md:h-12"
+              className="h-12 w-auto object-contain md:h-12"
             />
           </div>
 
