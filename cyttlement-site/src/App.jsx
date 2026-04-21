@@ -50,7 +50,7 @@ export default function App() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-8">
           <div className="flex items-center gap-4">
             <img
-              src="/logo dark.png"
+              src="/logo dark transparent.png"
               alt="Cyttlement logo"
               className="h-10 w-auto object-contain md:h-12"
             />
