@@ -76,7 +76,7 @@ export default function App() {
         <section className="mx-auto grid max-w-7xl gap-16 px-6 py-20 lg:grid-cols-[1.15fr_0.85fr] lg:px-8 lg:py-28">
           <div className="max-w-3xl">
             <div className="inline-flex items-center rounded-full border border-[#7f97ff]/25 bg-[#0b1536]/80 px-4 py-2 text-xs font-medium text-[#bbcbff] backdrop-blur">
-              Cross-border payments powered by stablecoins
+              Cross-border payments powered by stablecoins ( a CYTO Dollars Product )
             </div>
 
             <h1 className="mt-8 text-5xl font-semibold leading-[1.02] tracking-tight text-white md:text-6xl lg:text-7xl">
@@ -267,7 +267,7 @@ export default function App() {
 
               <div className="rounded-[2rem] border border-white/10 bg-white/[0.05] p-6 backdrop-blur-xl">
                 <div className="text-sm text-white/55">Contact</div>
-                <div className="mt-3 text-2xl font-semibold">test@cyttlement.com</div>
+                <div className="mt-3 text-2xl font-semibold">info@cytodollars.com</div>
                 <div className="mt-2 text-white/60">Kuala Lumpur, Malaysia</div>
                 <a
                   href="mailto:hello@cyttlement.com"
